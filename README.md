@@ -1,1 +1,1 @@
-# COMM7330_testing01
+# hkbu_comm7330_2019
